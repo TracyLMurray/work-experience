@@ -18,7 +18,7 @@ subject: 'Short Description'
 
 ## Experience
 
-### Chief Architect Awesome, 3M: Consumer Business Group
+### Chief Architect Awesome, 
 January 2021 - Present
 
 - Lead architectural design and strategic technology roadmap for the Consumer Business Group Digital Hub, driving innovation in retail analytics, division programs, and data/AI/ML platforms.
