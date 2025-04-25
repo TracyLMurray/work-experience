@@ -26,7 +26,7 @@ subject: 'Versatile compliance professional with 20+ years of experience protect
 
 ## Experience
 
-### Senior Compliance Associate, Compliance Advisor Professionals  
+### Senior Compliance Consultant, Compliance Advisor Professionals  
 Summer 2022 – Winter 2024
 
 - Managed Form ADV (Parts 1, 2A, 2B) and Form CRS filings for multiple Registered Investment Advisors, ensuring 100% on-time submission and adherence to evolving SEC requirements.  
