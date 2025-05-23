@@ -71,6 +71,15 @@ Summer 2007 – Winter 2010
 - Overhauled the licensing and registration workflow by developing a new, compliant onboarding process adopted firmwide.  
 - Conducted procedural audits to evaluate business unit adherence to regulatory and internal policy frameworks.
 
+### Compliance Analyst, Ameriprise Financial  
+Fall 2006 – Summer 2007
+
+- Performed due diligence on third-party distributors for RiverSource products, ensuring alignment with firm standards and regulatory expectations.  
+- Maintained and updated written supervisory procedures (WSPs) across multiple business units to improve audit readiness.  
+- Coordinated annual compliance meetings and delivered updated training materials reflecting evolving FINRA/SEC guidance.  
+- Produced and distributed internal bulletins and compliance manual updates to reinforce timely awareness of policy changes.  
+- Supported communication between compliance, advisors, and internal partners to ensure adherence to regulatory expectations.
+
 ### Branch Compliance Assistant, Piper Jaffray  
 Winter 2004 – Fall 2006
 
@@ -123,6 +132,6 @@ Winter 2004 – Fall 2006
 
 **Process & Review**: Surveillance & Monitoring, Email Review Systems, Client Communication Oversight, Risk Mitigation Frameworks, Onboarding Program Development, Procedure Writing & Maintenance, Policy Implementation, Workflow Optimization, Process Training, Review Accuracy Management
 
-**Platforms & Tools**: Salesforce, Assentor, Global Relay, Smarsh, Zix, Smart Station, Microsoft Office Suite (Excel, Word, PowerPoint, Access), Google Workspace, Adobe Acrobat
+**Platforms & Tools**: Salesforce, MyComplianceOffice, Orion Compliance, Assentor, Global Relay, Smarsh, Zix, Smart Station, Microsoft Office Suite (Excel, Word, PowerPoint, Access), Google Workspace, Adobe Acrobat
 
 **Training & Enablement**: Courseware Design, Regulatory Training Delivery, Analyst Coaching, Compliance Interpretation for Non-Specialists, Advisor Support Programs
